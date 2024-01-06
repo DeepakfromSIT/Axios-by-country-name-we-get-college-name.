@@ -1,0 +1,19 @@
+h1 {
+  color: blueviolet;
+  font-size: 100px;
+}
+
+body {
+  text-align: center;
+}
+
+input {
+  font-size: 50px;
+}
+
+button {
+  font-size: 40px;
+}
+ul {
+  font-size: 20px;
+}
